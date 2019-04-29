@@ -1,0 +1,31 @@
+﻿  stdafx.cpp
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\fprijata.h(6): error C2504: 'Faktura': base class undefined
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\fprijata.h(10): error C2061: syntax error: identifier 'Ucet'
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\fodeslana.h(7): error C2504: 'Faktura': base class undefined
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\fodeslana.h(12): error C2061: syntax error: identifier 'Ucet'
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(10): error C3646: 'jmeno': unknown override specifier
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(11): error C3646: 'prijmeni': unknown override specifier
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(12): error C3646: 'cu': unknown override specifier
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(19): error C2061: syntax error: identifier 'string'
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(20): error C2535: 'Ucet::Ucet(void)': member function already defined or declared
+  c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(19): note: see declaration of 'Ucet::Ucet'
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(21): error C2143: syntax error: missing ';' before '&'
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(21): error C2433: 'ostream': 'friend' not permitted on data declarations
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(21): error C2238: unexpected token(s) preceding ';'
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(22): error C2143: syntax error: missing ';' before '&'
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(22): error C2433: 'istream': 'friend' not permitted on data declarations
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(22): error C2238: unexpected token(s) preceding ';'
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(23): error C3646: 'getStavString': unknown override specifier
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(23): error C2059: syntax error: '('
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(23): error C2238: unexpected token(s) preceding ';'
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(24): error C3646: 'getInfoString': unknown override specifier
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(24): error C2059: syntax error: '('
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(24): error C2238: unexpected token(s) preceding ';'
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(27): error C3646: 'getJmeno': unknown override specifier
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(27): error C2059: syntax error: '('
+c:\users\tommy\desktop\vejska new\semestr 1\prg_1\cink_ukol_3\cink_ukol_3\ucet.h(27): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
